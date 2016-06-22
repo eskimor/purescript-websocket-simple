@@ -24,7 +24,7 @@
   "dependencies": {
     "purescript-generics": "~1.0.0",
     "purescript-eff": "~1.0.0",
-    "purescript-var": "../purescript-var#psc-0.9.1",
+    "purescript-var": "https://github.com/eskimor/purescript-var.git#psc-0.9.1",
     "purescript-dom": "~1.0.0",
     "purescript-exceptions": "^1.0.0"
   },
